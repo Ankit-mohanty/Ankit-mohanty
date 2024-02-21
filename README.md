@@ -8,9 +8,9 @@
 
 - 💬 Ask me about **java, SpringBoot**
 
-- 📫 How to reach me **ankitmohanty347@gmail.com**
+- 📫 I'd be happy to hear from you at : **ankitmohanty347@gmail.com**
 
-- ⚡ Fun fact **I am funny😅**
+- ⚡ Fun fact : **I possess a great sense of humor😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
