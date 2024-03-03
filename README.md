@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ankit Mohanty</h1>
-<h3 align="center">A passionate backend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/101390725/190363489-976eeaa3-5c73-4aed-b1ae-6317d9a7f2e8.gif">
+<img align="center" alt="Coding" height="400" width="1200" src="https://user-images.githubusercontent.com/101390725/190363489-976eeaa3-5c73-4aed-b1ae-6317d9a7f2e8.gif">
+👋
+<h1 align="center">𝓗𝓲 👋, 𝓘'𝓶 𝓐𝓷𝓴𝓲𝓽 𝓜𝓸𝓱𝓪𝓷𝓽𝔂</h1>
+<h3 align="center">𝑨 𝒑𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒃𝒂𝒄𝒌𝒆𝒏𝒅 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒇𝒓𝒐𝒎 𝑰𝒏𝒅𝒊𝒂</h3>
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit-mohanty&label=Profile%20views&color=0e75b6&style=flat" alt="ankit-mohanty" /> </p>
 
