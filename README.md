@@ -1,5 +1,4 @@
-<img align="center" alt="Coding" height="400" width="1200" src="https://user-images.githubusercontent.com/101390725/190363489-976eeaa3-5c73-4aed-b1ae-6317d9a7f2e8.gif">
-👋
+<img align="center" alt="Coding" height="400" width="1200" src="https://img.freepik.com/free-photo/person-playing-3d-video-games-device_23-2151005751.jpg?t=st=1711871338~exp=1711874938~hmac=cea83bb3f142af0a880f696f3bb751a5893f6bf6b9e01749a7747bceb2643864&w=826">
 <h1 align="center">𝓗𝓲 👋, 𝓘'𝓶 𝓐𝓷𝓴𝓲𝓽 𝓜𝓸𝓱𝓪𝓷𝓽𝔂</h1>
 <h3 align="center">𝑨 𝒑𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒃𝒂𝒄𝒌𝒆𝒏𝒅 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒇𝒓𝒐𝒎 𝑰𝒏𝒅𝒊𝒂</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
