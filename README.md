@@ -1,7 +1,9 @@
-<img align="center" alt="Coding" height="400" width="1200" src="https://img.freepik.com/free-photo/person-playing-3d-video-games-device_23-2151005751.jpg?t=st=1711871338~exp=1711874938~hmac=cea83bb3f142af0a880f696f3bb751a5893f6bf6b9e01749a7747bceb2643864&w=826">
+
 <h1 align="center">𝓗𝓲 👋, 𝓘'𝓶 𝓐𝓷𝓴𝓲𝓽 𝓜𝓸𝓱𝓪𝓷𝓽𝔂</h1>
 <h3 align="center">𝑨 𝒑𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒃𝒂𝒄𝒌𝒆𝒏𝒅 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒇𝒓𝒐𝒎 𝑰𝒏𝒅𝒊𝒂</h3>
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
+<div align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" width="600" height="300"/>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit-mohanty&label=Profile%20views&color=0e75b6&style=flat" alt="ankit-mohanty" /> </p>
 
@@ -13,6 +15,14 @@
 
 - ⚡ Fun fact : **I possess a great sense of humor😅**
 
+```JAVA
+public class Smruti {
+  public static void main(String args...) {
+    System.out.println("Welcome To My World");
+  }  
+}
+```
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ankit-mohanty-993963266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit-mohanty-993963266" height="30" width="40" /></a>
@@ -23,7 +33,12 @@
 
 <h3 align="left">Languages and Tools:</h3>
   </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
-
+  
+- [x] Follow clean coding
+- [x] Prefer clean coding strategy
+- [x] Hands on experience of Microservices
+- [x] Knowledge of both synchronous and non-synchronous flow
+      
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankit-mohanty&show_icons=true&locale=en&layout=compact" alt="ankit-mohanty" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankit-mohanty&show_icons=true&locale=en" alt="ankit-mohanty" /></p>
