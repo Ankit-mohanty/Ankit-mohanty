@@ -16,10 +16,14 @@
 - ⚡ Fun fact : **I possess a great sense of humor😅**
 
 ```JAVA
-public class Smruti {
-  public static void main(String args...) {
-    System.out.println("Welcome To My World");
-  }  
+@SpringBootApplication
+@RestController
+public class DemoApplication {
+
+ @GetMapping("/helloworld")
+ public String hello() {
+   return"Hello World!";
+  }
 }
 ```
 
