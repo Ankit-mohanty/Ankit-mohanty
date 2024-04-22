@@ -42,7 +42,7 @@ public class DemoApplication {
   
 - [x] Follow clean coding
 - [x] Prefer clean coding strategy
-- [x] Hands on experience of Microservices
+- [x] Hands-on experience of Microservices
 - [x] Knowledge of both synchronous and non-synchronous flow
       
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankit-mohanty&show_icons=true&locale=en&layout=compact" alt="ankit-mohanty" /></p>
