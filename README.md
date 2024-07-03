@@ -2,7 +2,8 @@
 <h1 align="center">𝓗𝓲 👋, 𝓘'𝓶 𝓐𝓷𝓴𝓲𝓽 𝓜𝓸𝓱𝓪𝓷𝓽𝔂</h1>
 <h3 align="center">𝑨 𝒑𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒃𝒂𝒄𝒌𝒆𝒏𝒅 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒇𝒓𝒐𝒎 𝑰𝒏𝒅𝒊𝒂</h3>
 <div align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" width="600" height="300"/>
+<!--   <iframe src="https://giphy.com/embed/f3iwJFOVOwuy7K6FFw" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-man-development-developer-f3iwJFOVOwuy7K6FFw" >via GIPHY</a></p> -->
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHpwbGxzcmNvZTRxd2dkNGwxMXN4djJlNGRnbjFkNDg0OGJ0dDV6bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600" height="300"/>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit-mohanty&label=Profile%20views&color=0e75b6&style=flat" alt="ankit-mohanty" /> </p>
@@ -15,7 +16,7 @@
 
 - 📫 I'd be happy to hear from you at : **ankitmohanty347@gmail.com**
 
-- ⚡ Fun fact : **I possess a great sense of humor😅**
+- ⚡ Fun fact : **I'm obsessed with anime. It's my not-so-secret addiction! 🤓📺**
 
 ```JAVA
 @SpringBootApplication
