@@ -50,4 +50,4 @@ public class DemoApplication {
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankit-mohanty&show_icons=true&locale=en" alt="ankit-mohanty" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankit-mohanty&" alt="ankit-mohanty" /></p>
+
