@@ -32,10 +32,10 @@ public class Rahul {
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mohantyankit/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit-mohanty-993963266" height="30" width="40" /></a>
-<a href="https://instagram.com/am__________rahul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="am__________rahul" height="30" width="40" /></a>
-<a href="https://medium.com/@ankitmohanty347" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ankitmohanty347" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ankitmohanty347" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ankitmohanty347" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohantyankit/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit-mohanty-993963266" height="25" width="25" /></a>
+<a href="https://instagram.com/am__________rahul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="am__________rahul" height="25" width="25" /></a>
+<a href="https://medium.com/@ankitmohanty347" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ankitmohanty347" height="25" width="25" /></a>
+<a href="https://www.leetcode.com/ankitmohanty347" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ankitmohanty347" height="25" width="25" /></a>
 </p>
 
   <h3 align="left">Languages and Tools:</h3>
